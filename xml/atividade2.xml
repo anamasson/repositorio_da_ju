@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cardapio>
+    <prato>
+        <nome>Lasanha à Bolonhesa</nome>
+        <preco>29.90</preco>
+        <ingredientes>
+            <ingrediente>massa de lasanha</ingrediente>
+            <ingrediente>carne moída</ingrediente>
+            <ingrediente>molho de tomate</ingrediente>
+            <ingrediente>queijo muçarela</ingrediente>
+            <ingrediente>cebola</ingrediente>
+            <ingrediente>alho</ingrediente>
+        </ingredientes>
+    </prato>
+    <prato>
+        <nome>Frango Grelhado</nome>
+        <preco>24.50</preco>
+        <ingredientes>
+            <ingrediente>peito de frango</ingrediente>
+            <ingrediente>sal</ingrediente>
+            <ingrediente>pimenta</ingrediente>
+            <ingrediente>azeite</ingrediente>
+            <ingrediente>limão</ingrediente>
+        </ingredientes>
+    </prato>
+    <prato>
+        <nome>Salada Caesar</nome>
+        <preco>19.90</preco>
+        <ingredientes>
+            <ingrediente>alface romana</ingrediente>
+            <ingrediente>croutons</ingrediente>
+            <ingrediente>queijo parmesão</ingrediente>
+            <ingrediente>molho Caesar</ingrediente>
+            <ingrediente>peito de frango grelhado</ingrediente>
+        </ingredientes>
+    </prato>
+</cardapio>

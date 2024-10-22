@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clientes>
+    <cliente id="001" nome="Maria" idade="30" />
+    <cliente id="002" nome="Ana" idade="25" />
+    <cliente id="003" nome="João" idade="40" />
+</clientes>
